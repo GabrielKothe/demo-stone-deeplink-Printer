@@ -1,0 +1,3 @@
+Adicione todas as pasta no libaryPatch
+
+Abre o stone_deeplink.pkg, compile , install
