@@ -1,5 +1,9 @@
 # Demo Stone Deeplink
 
+Usei o compone feito pelo https://github.com/CarlosHe/stone-deeplink e fiz alterações para receber pix e imprimir.
+
+A Sua POS da Stone deve estar na Versão 7.4.5 ou na ultima versao Piloto 7.7.0 para imprimir.
+
 A Delphi (Firemonkey) demo project for integration with Stone's card machine
 
 ## ⚙️ Video Tutorial do componente e instalação
