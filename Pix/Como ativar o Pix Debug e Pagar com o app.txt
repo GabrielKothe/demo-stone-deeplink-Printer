@@ -1,0 +1,5 @@
+primeiro acessa o link a baixo e libere o Pix
+https://stone-partnerprogram.helpjuice.com/pt_BR/deeplink/implementar-pix-deeplink
+
+
+Após gerar o Pix instale o app qr_code_pay.apk no seu celular e use para pagar o pix
